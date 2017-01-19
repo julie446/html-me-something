@@ -53,10 +53,6 @@ ul {
     text-align: left;
 }
 
-img {
-    border: 1px solid #000000;
-}
-
 #tea {
     height: 50%;
     width: 50%;
@@ -65,4 +61,6 @@ img {
 footer {
     color: #ffffff;
     text-align: center;
+    font-family: Verdana;
+    font-size: 12px;
 }
